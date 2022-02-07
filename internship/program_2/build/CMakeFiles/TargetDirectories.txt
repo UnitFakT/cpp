@@ -1,0 +1,3 @@
+C:/Users/Giper/Desktop/zadanie/program_2/build/CMakeFiles/program_2.dir
+C:/Users/Giper/Desktop/zadanie/program_2/build/CMakeFiles/edit_cache.dir
+C:/Users/Giper/Desktop/zadanie/program_2/build/CMakeFiles/rebuild_cache.dir
